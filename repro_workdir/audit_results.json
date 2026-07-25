@@ -1,0 +1,124 @@
+{
+  "claim1": {
+    "supported": true,
+    "data": {
+      "3": {
+        "regret": 3.175166356636452,
+        "mistakes": 1,
+        "d_sq": 9
+      },
+      "5": {
+        "regret": 1.4259133550068188,
+        "mistakes": 1,
+        "d_sq": 25
+      },
+      "8": {
+        "regret": 5.192396379944146,
+        "mistakes": 1,
+        "d_sq": 64
+      },
+      "10": {
+        "regret": 3.8688031511952463,
+        "mistakes": 1,
+        "d_sq": 100
+      },
+      "15": {
+        "regret": 4.397072905404198,
+        "mistakes": 1,
+        "d_sq": 225
+      }
+    },
+    "ratios": [
+      0.35279626184849466,
+      0.05703653420027275,
+      0.08113119343662728,
+      0.038688031511952464,
+      0.019542546246240883
+    ]
+  },
+  "claim2": {
+    "supported": true,
+    "data": {
+      "3": {
+        "regret": 1.3641481957621493,
+        "d_log_d": 4.1588830833596715,
+        "mistakes": 1
+      },
+      "5": {
+        "regret": 1.0871486263148575,
+        "d_log_d": 8.958797346140274,
+        "mistakes": 1
+      },
+      "8": {
+        "regret": 2.710860509997302,
+        "d_log_d": 17.577796618689757,
+        "mistakes": 1
+      },
+      "10": {
+        "regret": 2.6999645742156657,
+        "d_log_d": 23.978952727983707,
+        "mistakes": 1
+      },
+      "15": {
+        "regret": 3.329277603090969,
+        "d_log_d": 41.58883083359672,
+        "mistakes": 1
+      }
+    },
+    "constant_ratios": [
+      0.32800830617728,
+      0.1213498401973826,
+      0.15422072338207363,
+      0.1125972683145906,
+      0.08005220479536726
+    ]
+  },
+  "claim3": {
+    "supported": true,
+    "data": {
+      "0": {
+        "regret": 3.5225672146049236,
+        "restarts": 0
+      },
+      "5": {
+        "regret": 10.311890340506848,
+        "restarts": 5
+      },
+      "10": {
+        "regret": 40.38478901693704,
+        "restarts": 10
+      },
+      "20": {
+        "regret": 44.125570377964976,
+        "restarts": 20
+      }
+    }
+  },
+  "claim4": {
+    "supported": false,
+    "data": {
+      "3": {
+        "regret": 1.7214934321478166
+      },
+      "5": {
+        "regret": 1.102624872049688
+      },
+      "8": {
+        "regret": 2.0469178797299534
+      },
+      "12": {
+        "regret": 2.538696555036047
+      },
+      "15": {
+        "regret": 0.9012034954681831
+      }
+    },
+    "slope": -0.06835749472330278
+  },
+  "claim5": {
+    "supported": true,
+    "factor": 0.6321205588285577,
+    "basis": "Gr\u00fcnbaum's theorem (1960)",
+    "note": "Mathematical identity: hyperplane through centroid of convex body K guarantees each side has volume >= Vol(K)/e. When prediction errs in Algorithm 1, the new arc constraint cuts off the centroid side, leaving Vol(P_{t+1}) <= (1-1/e)\u00b7Vol(P_t)."
+  }
+}

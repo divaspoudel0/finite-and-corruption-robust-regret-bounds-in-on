@@ -1,0 +1,269 @@
+{
+  "d": 5,
+  "T": 200,
+  "n_samples": 50000,
+  "contraction_factor_guaranteed": 0.6321205588285577,
+  "n_mistakes_with_new_arcs": 1,
+  "contractions": [
+    {
+      "round": 0,
+      "new_arcs": 4,
+      "total_arcs": 4,
+      "regret": 2.148085856764335
+    }
+  ],
+  "volume_over_time": [
+    {
+      "round": 0,
+      "volume_fraction": 0.19518,
+      "n_arcs": 4
+    },
+    {
+      "round": 1,
+      "volume_fraction": 0.19674,
+      "n_arcs": 4
+    },
+    {
+      "round": 2,
+      "volume_fraction": 0.20222,
+      "n_arcs": 4
+    },
+    {
+      "round": 3,
+      "volume_fraction": 0.20116,
+      "n_arcs": 4
+    },
+    {
+      "round": 4,
+      "volume_fraction": 0.19608,
+      "n_arcs": 4
+    },
+    {
+      "round": 5,
+      "volume_fraction": 0.1961,
+      "n_arcs": 4
+    },
+    {
+      "round": 6,
+      "volume_fraction": 0.20162,
+      "n_arcs": 4
+    },
+    {
+      "round": 7,
+      "volume_fraction": 0.20104,
+      "n_arcs": 4
+    },
+    {
+      "round": 8,
+      "volume_fraction": 0.1972,
+      "n_arcs": 4
+    },
+    {
+      "round": 9,
+      "volume_fraction": 0.2006,
+      "n_arcs": 4
+    },
+    {
+      "round": 10,
+      "volume_fraction": 0.20112,
+      "n_arcs": 4
+    },
+    {
+      "round": 11,
+      "volume_fraction": 0.19734,
+      "n_arcs": 4
+    },
+    {
+      "round": 12,
+      "volume_fraction": 0.20184,
+      "n_arcs": 4
+    },
+    {
+      "round": 13,
+      "volume_fraction": 0.19964,
+      "n_arcs": 4
+    },
+    {
+      "round": 14,
+      "volume_fraction": 0.20136,
+      "n_arcs": 4
+    },
+    {
+      "round": 15,
+      "volume_fraction": 0.20016,
+      "n_arcs": 4
+    },
+    {
+      "round": 16,
+      "volume_fraction": 0.19812,
+      "n_arcs": 4
+    },
+    {
+      "round": 17,
+      "volume_fraction": 0.19874,
+      "n_arcs": 4
+    },
+    {
+      "round": 18,
+      "volume_fraction": 0.20124,
+      "n_arcs": 4
+    },
+    {
+      "round": 19,
+      "volume_fraction": 0.20026,
+      "n_arcs": 4
+    },
+    {
+      "round": 20,
+      "volume_fraction": 0.1986,
+      "n_arcs": 4
+    },
+    {
+      "round": 21,
+      "volume_fraction": 0.19842,
+      "n_arcs": 4
+    },
+    {
+      "round": 22,
+      "volume_fraction": 0.19988,
+      "n_arcs": 4
+    },
+    {
+      "round": 23,
+      "volume_fraction": 0.19968,
+      "n_arcs": 4
+    },
+    {
+      "round": 24,
+      "volume_fraction": 0.20058,
+      "n_arcs": 4
+    },
+    {
+      "round": 25,
+      "volume_fraction": 0.1981,
+      "n_arcs": 4
+    },
+    {
+      "round": 26,
+      "volume_fraction": 0.19814,
+      "n_arcs": 4
+    },
+    {
+      "round": 27,
+      "volume_fraction": 0.19666,
+      "n_arcs": 4
+    },
+    {
+      "round": 28,
+      "volume_fraction": 0.19912,
+      "n_arcs": 4
+    },
+    {
+      "round": 29,
+      "volume_fraction": 0.19862,
+      "n_arcs": 4
+    },
+    {
+      "round": 30,
+      "volume_fraction": 0.20258,
+      "n_arcs": 4
+    },
+    {
+      "round": 31,
+      "volume_fraction": 0.19898,
+      "n_arcs": 4
+    },
+    {
+      "round": 32,
+      "volume_fraction": 0.20402,
+      "n_arcs": 4
+    },
+    {
+      "round": 33,
+      "volume_fraction": 0.19528,
+      "n_arcs": 4
+    },
+    {
+      "round": 34,
+      "volume_fraction": 0.19868,
+      "n_arcs": 4
+    },
+    {
+      "round": 35,
+      "volume_fraction": 0.202,
+      "n_arcs": 4
+    },
+    {
+      "round": 36,
+      "volume_fraction": 0.19778,
+      "n_arcs": 4
+    },
+    {
+      "round": 37,
+      "volume_fraction": 0.19906,
+      "n_arcs": 4
+    },
+    {
+      "round": 38,
+      "volume_fraction": 0.1985,
+      "n_arcs": 4
+    },
+    {
+      "round": 39,
+      "volume_fraction": 0.19914,
+      "n_arcs": 4
+    },
+    {
+      "round": 40,
+      "volume_fraction": 0.19938,
+      "n_arcs": 4
+    },
+    {
+      "round": 41,
+      "volume_fraction": 0.19718,
+      "n_arcs": 4
+    },
+    {
+      "round": 42,
+      "volume_fraction": 0.20102,
+      "n_arcs": 4
+    },
+    {
+      "round": 43,
+      "volume_fraction": 0.198,
+      "n_arcs": 4
+    },
+    {
+      "round": 44,
+      "volume_fraction": 0.20186,
+      "n_arcs": 4
+    },
+    {
+      "round": 45,
+      "volume_fraction": 0.19686,
+      "n_arcs": 4
+    },
+    {
+      "round": 46,
+      "volume_fraction": 0.19928,
+      "n_arcs": 4
+    },
+    {
+      "round": 47,
+      "volume_fraction": 0.2017,
+      "n_arcs": 4
+    },
+    {
+      "round": 48,
+      "volume_fraction": 0.19972,
+      "n_arcs": 4
+    },
+    {
+      "round": 49,
+      "volume_fraction": 0.19842,
+      "n_arcs": 4
+    }
+  ],
+  "final_volume_fraction": 0.20256,
+  "note": "Volume contraction by factor (1-1/e) is guaranteed by Gr\u00fcnbaum theorem (1960)"
+}
